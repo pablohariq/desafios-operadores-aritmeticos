@@ -2,8 +2,6 @@
 const n1 = +prompt("Ingrese el primer número (mayor que 0): ");
 
 // verificar que n1 cumpla el requisito >0
-
-
 const n2 = +prompt("Ingrese el segundo número (mayor que 0): ");
 
 // función que crea el objeto con los resultados
